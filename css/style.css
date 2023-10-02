@@ -26,7 +26,7 @@ a:hover:after { content:""; width:100%; height:10px; background:rgba(255,0,0,0.2
 
 
 #chapter { text-align:center; font-family: 'EB Garamond', serif; }
-#chapter h2 { background: #eee; margin: 50px 80px; font-size: 30px; padding: 10px; }
+#chapter h2 { display: none; background: #eee; margin: 50px 80px; font-size: 30px; padding: 10px; }
 #chapter img { width: 100%; }
 
 
